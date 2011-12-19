@@ -1,0 +1,1 @@
+This is PHP extension that just simply call sysconf(_SC_CLK_TCK).
